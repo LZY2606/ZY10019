@@ -1,0 +1,21 @@
+{
+  "environment": {
+    "machine": "arm64",
+    "platform": "macOS-26.5.2-arm64-arm-64bit",
+    "processor": "arm",
+    "python": "3.9.6"
+  },
+  "expression": "*/1 * * * *",
+  "iterations": 10000,
+  "median_seconds": 0.100787708,
+  "min_seconds": 0.10070783400000005,
+  "per_iteration_seconds": 1.0070783400000005e-05,
+  "rounds": 5,
+  "samples_seconds": [
+    0.100944833,
+    0.100787708,
+    0.100779917,
+    0.101358,
+    0.10070783400000005
+  ]
+}
