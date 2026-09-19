@@ -1,0 +1,24 @@
+{
+  "expression": "* * * * *",
+  "base_time": "2024-01-05T12:30:00",
+  "iterations": 10000,
+  "repeats": 7,
+  "samples_seconds": [
+    0.11064195799999998,
+    0.10207195799999996,
+    0.102013083,
+    0.10190529199999998,
+    0.10148558399999996,
+    0.10175220900000004,
+    0.10222037499999992
+  ],
+  "best_seconds": 0.10148558399999996,
+  "per_iteration_seconds": 1.0148558399999996e-05,
+  "environment": {
+    "python": "3.9.6",
+    "implementation": "CPython",
+    "platform": "macOS-26.5.2-arm64-arm-64bit",
+    "machine": "arm64",
+    "processor": "arm"
+  }
+}
